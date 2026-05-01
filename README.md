@@ -1,5 +1,5 @@
 
-**[seekgb.com](https://www.seekgb.com)** · **[LinkedIn](https://linkedin.com/in/gautamgb)**
+**[seekgb.com](https://www.seekgb.com)** · **[LinkedIn](https://linkedin.com/in/gautamgb)** · **[mcpindex.ai](https://mcpindex.ai)**
 
 <a href="https://www.seekgb.com">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2500&pause=1500&color=6E7681&vCenter=true&repeat=true&width=600&height=28&lines=I+build+products.;I+build+platforms.;I+build+the+infrastructure+that+makes+AI+systems+actually+work+in+production." alt="Typing animation" />
