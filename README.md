@@ -21,6 +21,9 @@ Every tool here started as a proof-of-concept to solve friction I hit while ship
 
 ### What I've Built
 
+**[mcpindex.ai](https://mcpindex.ai)** `TypeScript` · [GitHub](https://github.com/mcpindex-ai)
+The agent-native index of MCP servers. Recommendation API + drop-in MCP server (`mcp-server-mcpindex` on npm) for finding the right MCP at inference time — not the developer browsing a sidebar. 3,500+ servers indexed daily from the official registry, ranked by an open Quality Score. Built because every existing directory was built for humans, not agents.
+
 **[Agent Universe](https://github.com/gautamgb/agent-universe)** `Python`
 Enterprise-grade agent builder factory. A composable framework for building governed AI agents with structured tool access, memory, and orchestration patterns.
 
