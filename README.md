@@ -11,8 +11,8 @@
 [![Peer Reviewed](https://img.shields.io/badge/Peer--Reviewed-Elsevier%20Chapter-b31b1b?style=flat-square)](https://doi.org/10.1016/B978-0-443-32884-8.00015-5)
 [![Datasets](https://img.shields.io/badge/Open%20Datasets-4%20on%20Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)](#open-datasets)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--4448--1438-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-4448-1438)
-[![Experience](https://img.shields.io/badge/Platform%20PM-12%2B%20Years-64748b?style=flat-square)]()
-[![License](https://img.shields.io/badge/Data-CC--BY--4.0-10b981?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
+[![Experience](https://img.shields.io/badge/Platform%20PM-12%2B%20Years-64748b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gautamgb)
+[![arXiv](https://img.shields.io/badge/arXiv-2608.00997-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2608.00997)
 
 **Product Manager blending strategy with execution** · Developer Platforms · Public APIs · Agentic AI & MCP
 
@@ -54,7 +54,7 @@ All published under **Bharti, Gautam** ([ORCID 0009-0001-4448-1438](https://orci
 | mcpindex Source Liveness — Baseline v1 (reachability census) | Dataset | [10.5281/zenodo.21501867](https://doi.org/10.5281/zenodo.21501867) |
 | MCP Registry Drift Panel v1 (longitudinal observation panel) | Dataset | [10.5281/zenodo.21709945](https://doi.org/10.5281/zenodo.21709945) |
 | MCP Declared-Effect Coverage and Contract Binding v1 | Dataset | [10.5281/zenodo.21778281](https://doi.org/10.5281/zenodo.21778281) |
-| Registry Descriptions Go Stale Unevenly: An 89-Day Measurement | Preprint | [10.5281/zenodo.21728369](https://doi.org/10.5281/zenodo.21728369) |
+| Registry Descriptions Go Stale Unevenly: An 89-Day Measurement | Preprint | [arXiv:2608.00997](https://arxiv.org/abs/2608.00997) · [10.5281/zenodo.21728369](https://doi.org/10.5281/zenodo.21728369) |
 
 ---
 
