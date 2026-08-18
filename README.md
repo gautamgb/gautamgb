@@ -8,7 +8,7 @@
 
 <br />
 
-[![Peer Reviewed](https://img.shields.io/badge/Peer--Reviewed-Elsevier%20Chapter-b31b1b?style=flat-square)](https://doi.org/10.1016/B978-0-443-32884-8.00015-5)
+[![Peer Reviewed](https://img.shields.io/badge/Peer--Reviewed-Elsevier%20Chapter-10b981?style=flat-square)](https://doi.org/10.1016/B978-0-443-32884-8.00015-5)
 [![Datasets](https://img.shields.io/badge/Open%20Datasets-4%20on%20Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)](#open-datasets)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--4448--1438-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-4448-1438)
 [![Experience](https://img.shields.io/badge/Platform%20PM-12%2B%20Years-64748b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gautamgb)
@@ -42,7 +42,7 @@ I measure this at registry scale and publish the data openly. 3,500+ MCP servers
 | **OWASP FIASSE** | ![Contributor](https://img.shields.io/badge/-Contributor-10b981?style=flat-square) | Dependency stewardship for out-of-process dependencies. The framework's guidance covered code taken into a build and left out services called across a boundary; the project lead rewrote and consolidated the section around it ([Discussion #20](https://github.com/OWASP/FIASSE/discussions/20)). Two commits merged to the framework document ([PR #34](https://github.com/OWASP/FIASSE/pull/34)) |
 | **MITRE ATLAS** | ![Under Review](https://img.shields.io/badge/-Under%20Review-64748b?style=flat-square) | Mitigation submitted for AML.T0104 (Publish Poisoned AI Agent Tool), covering post-approval contract mutation |
 | **OWASP AISVS C9** | ![Active](https://img.shields.io/badge/-Active%20Work-f59e0b?style=flat-square) | Real-data conformance fixtures for action-class and reversibility controls ([reference repo](https://github.com/gautamgb/aisvs-c9-action-class-conformance)) |
-| **Adversarial ML for IoMT Security** | ![Peer Reviewed](https://img.shields.io/badge/-Peer%20Reviewed-b31b1b?style=flat-square) | Elsevier, *Internet of Multimedia Things Security*, third author ([DOI](https://doi.org/10.1016/B978-0-443-32884-8.00015-5)) |
+| **Adversarial ML for IoMT Security** | ![Peer Reviewed](https://img.shields.io/badge/-Peer%20Reviewed-10b981?style=flat-square) | Elsevier, *Internet of Multimedia Things Security*, third author ([DOI](https://doi.org/10.1016/B978-0-443-32884-8.00015-5)) |
 
 ### Open Datasets
 
