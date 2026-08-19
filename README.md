@@ -1,9 +1,9 @@
 <div align="center">
 
-**[seekgb.com](https://www.seekgb.com)** · **[LinkedIn](https://linkedin.com/in/gautamgb)** · **[mcpindex.ai](https://mcpindex.ai)** · **[ORCID](https://orcid.org/0009-0001-4448-1438)**
+**[seekgb.com](https://www.seekgb.com)** | **[LinkedIn](https://linkedin.com/in/gautamgb)** | **[mcpindex.ai](https://mcpindex.ai)** | **[ORCID](https://orcid.org/0009-0001-4448-1438)**
 
 <a href="https://www.seekgb.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2500&pause=1500&color=6E7681&vCenter=true&repeat=true&width=600&height=28&lines=I+build+products.;I+build+platforms.;I+build+the+infrastructure+that+makes+AI+systems+actually+work+in+production." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2500&pause=1500&color=6E7681&vCenter=true&repeat=true&width=600&height=28&lines=I+build+platforms.;I+build+the+infrastructure+that+makes+AI+systems+actually+work+in+production." alt="Typing animation" />
 </a>
 
 <br />
@@ -14,7 +14,7 @@
 [![Experience](https://img.shields.io/badge/Platform%20PM-12%2B%20Years-64748b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gautamgb)
 [![arXiv](https://img.shields.io/badge/arXiv-2608.00997-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2608.00997)
 
-**Product Manager blending strategy with execution** · Developer Platforms · Public APIs · Agentic AI & MCP
+**Product Manager blending strategy with execution.** Developer platforms, public APIs, agentic AI, and MCP.
 
 </div>
 
@@ -26,7 +26,7 @@ Developer platforms and the trust layer under agentic AI. The thesis in one line
 
 ```
 contract.pinned_at    = approval_time      // the snapshot, not the docs
-served.contract       ≠ pinned.contract    // drift, with no republish event
+served.contract      != pinned.contract    // drift, with no republish event
 verification          = continuous         // advisory evidence, not a gate
 ```
 
@@ -54,7 +54,7 @@ All published under **Bharti, Gautam** ([ORCID 0009-0001-4448-1438](https://orci
 | mcpindex Source Liveness — Baseline v1 (reachability census) | Dataset | [10.5281/zenodo.21501867](https://doi.org/10.5281/zenodo.21501867) |
 | MCP Registry Drift Panel v1 (longitudinal observation panel) | Dataset | [10.5281/zenodo.21709945](https://doi.org/10.5281/zenodo.21709945) |
 | MCP Declared-Effect Coverage and Contract Binding v1 | Dataset | [10.5281/zenodo.21778281](https://doi.org/10.5281/zenodo.21778281) |
-| Registry Descriptions Go Stale Unevenly: An 89-Day Measurement | Preprint | [arXiv:2608.00997](https://arxiv.org/abs/2608.00997) · [10.5281/zenodo.21728369](https://doi.org/10.5281/zenodo.21728369) |
+| Registry Descriptions Go Stale Unevenly: An 89-Day Measurement | Preprint | [arXiv:2608.00997](https://arxiv.org/abs/2608.00997), [10.5281/zenodo.21728369](https://doi.org/10.5281/zenodo.21728369) |
 
 ### Speaking
 
@@ -127,16 +127,17 @@ All deployed and live at **[seekgb.com](https://www.seekgb.com)**
 
 ## How I Build Product
 
-- **Start with the problem**, not the technology. Every tool I've built exists because I hit a real friction point, not because the tech was interesting. If nobody needs it, it's shelfware.
-- **Prototype before you spec**. I build working POCs to pressure-test ideas before committing engineering resources. The best specs come from building, not theorizing.
-- **Stay close to the users**. I run discovery calls, read support tickets, and use my own products. You can't build for developers if you've never felt their friction firsthand.
-- **Ship small, learn fast, iterate faster**. I'd rather validate with a rough working version this week than debate a polished spec for a month. Assumptions are cheap to hold and expensive to ship.
+Every tool here exists because I hit a real friction point. If nobody needs it, it is shelfware.
+
+I build working proofs of concept to pressure-test an idea before committing engineering resources, because the best specs come out of building. That means discovery calls, support tickets, and using my own products. You cannot build for developers if you have never felt their friction firsthand.
+
+I would rather validate with a rough working version this week than debate a polished spec for a month. Assumptions are cheap to hold and expensive to ship.
 
 ---
 
 ## The Pattern
 
-I've spent 12+ years building platforms at Microsoft (Power BI/Synapse, Windows Shell), T-Mobile, Trend Micro, and Qualtrics. The recurring problem: powerful infrastructure exists, but the people who need it can't reach it. These tools are my way of closing that gap, building the missing pieces I couldn't find when I needed them.
+I've spent 12+ years building platforms at Microsoft (Power BI/Synapse, Windows Shell), T-Mobile, Trend Micro, and Qualtrics. The same thing keeps happening: powerful infrastructure exists and the people who need it cannot reach it. Each tool above is a piece I went looking for, did not find, and built.
 
 ---
 
@@ -146,6 +147,6 @@ I've spent 12+ years building platforms at Microsoft (Power BI/Synapse, Windows 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gautamgb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gautamgb)
 [![mcpindex](https://img.shields.io/badge/mcpindex.ai-1d4ed8?style=for-the-badge&logoColor=white)](https://mcpindex.ai)
 
-📍 Seattle, WA · ⏱ GMT-07:00
+Seattle, WA | GMT-07:00
 
 </div>
