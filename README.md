@@ -46,7 +46,7 @@ I measure this at registry scale and publish the data openly. 3,500+ MCP servers
 
 ### Open Datasets
 
-All published under **Bharti, Gautam** ([ORCID 0009-0001-4448-1438](https://orcid.org/0009-0001-4448-1438)), CC-BY-4.0. DOIs below are concept DOIs; they always resolve to the latest version.
+All CC-BY-4.0. Published under **Bharti, Gautam** ([ORCID 0009-0001-4448-1438](https://orcid.org/0009-0001-4448-1438)), except the binding-gap preprint, which is co-authored with Mayur Agnihotri ([ORCID 0009-0007-0137-3780](https://orcid.org/0009-0007-0137-3780)). DOIs below are concept DOIs; they always resolve to the latest version.
 
 | Record | Type | DOI |
 |---|---|---|
@@ -55,6 +55,7 @@ All published under **Bharti, Gautam** ([ORCID 0009-0001-4448-1438](https://orci
 | MCP Registry Drift Panel v1 (longitudinal observation panel) | Dataset | [10.5281/zenodo.21709945](https://doi.org/10.5281/zenodo.21709945) |
 | MCP Declared-Effect Coverage and Contract Binding v1 | Dataset | [10.5281/zenodo.21778281](https://doi.org/10.5281/zenodo.21778281) |
 | Registry Descriptions Go Stale Unevenly: An 89-Day Measurement | Preprint | [arXiv:2608.00997](https://arxiv.org/abs/2608.00997), [10.5281/zenodo.21728369](https://doi.org/10.5281/zenodo.21728369) |
+| Declared vs. Observed: Measuring the Binding Gap in MCP Tool Declarations | Preprint | [10.5281/zenodo.22649163](https://doi.org/10.5281/zenodo.22649163) |
 
 ### Speaking
 
