@@ -59,7 +59,7 @@ All CC-BY-4.0. Published under **Bharti, Gautam** ([ORCID 0009-0001-4448-1438](h
 
 ### Speaking
 
-**AI Context, San Jose** (September 23, 2026): a 20-minute session on measuring contract drift across the MCP registry.
+**AI Context San Jose** (Wednesday September 23, 2026, 4:00pm, CreaTV San Jose, Room 2): ["The Binding Gap: The MCP Tool Your Agent Vetted Is Not the Tool It Calls"](https://www.aicontextseries.com/san-jose). 25 minutes including Q&A, with a live demo where a pinned contract drifts mid-session and the call stops.
 
 ---
 
