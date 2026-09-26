@@ -13,6 +13,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--4448--1438-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-4448-1438)
 [![Experience](https://img.shields.io/badge/Platform%20PM-12%2B%20Years-64748b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gautamgb)
 [![arXiv](https://img.shields.io/badge/arXiv-2608.00997-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2608.00997)
+[![IEEE Senior Member](https://img.shields.io/badge/IEEE-Senior%20Member-00629B?style=flat-square&logo=ieee&logoColor=white)](https://www.ieee.org/membership/senior)
 
 **Product Manager blending strategy with execution.** Developer platforms, public APIs, agentic AI, and MCP.
 
@@ -43,6 +44,7 @@ I measure this at registry scale and publish the data openly. 3,500+ MCP servers
 | **OWASP FIASSE** | [![Contributor](https://img.shields.io/badge/-Contributor-10b981?style=for-the-badge)](https://github.com/OWASP/FIASSE) | Dependency stewardship for out-of-process dependencies. The framework's guidance covered code taken into a build and left out services called across a boundary; the project lead rewrote and consolidated the section around it ([Discussion #20](https://github.com/OWASP/FIASSE/discussions/20)). Two commits merged to the framework document ([PR #34](https://github.com/OWASP/FIASSE/pull/34)). Runnable [worked example](https://github.com/gautamgb/FIASSE/blob/examples/dependent-processes/examples/dependent_processes/rest-dependency-boundary.md): one REST dependency written twice, four tests, standard library Python |
 | **MITRE ATLAS** | [![Under Review](https://img.shields.io/badge/-Under%20Review-64748b?style=for-the-badge)](https://atlas.mitre.org/) | Mitigation submitted for AML.T0104 (Publish Poisoned AI Agent Tool), covering post-approval contract mutation |
 | **OWASP AISVS C9** | [![Active](https://img.shields.io/badge/-Active%20Work-f59e0b?style=for-the-badge)](https://github.com/gautamgb/aisvs-c9-action-class-conformance) | Real-data conformance fixtures for action-class and reversibility controls ([reference repo](https://github.com/gautamgb/aisvs-c9-action-class-conformance)) |
+| **IEEE Senior Member** | [![Elevated](https://img.shields.io/badge/-Elevated%20Sep%202026-10b981?style=for-the-badge)](https://www.ieee.org/membership/senior) | Elevated by the IEEE Admission and Advancement Committee on 25 September 2026. Senior Member is the highest grade for which IEEE members can apply, and requires at least ten years in professional practice with significant performance over at least five of them |
 | **Adversarial ML for IoMT Security** | [![Peer Reviewed](https://img.shields.io/badge/-Peer%20Reviewed-10b981?style=for-the-badge)](https://doi.org/10.1016/B978-0-443-32884-8.00015-5) | Elsevier, *Internet of Multimedia Things Security*, third author ([DOI](https://doi.org/10.1016/B978-0-443-32884-8.00015-5)) |
 
 ### Open Datasets
